@@ -14,6 +14,7 @@ As of today (3/16/24), I do not know what certificated I need to get for I am on
   - Currently learning on how to manuever with Git
   <details>
   <summary> Usage of Git </summary>
+    
   ## Setting up
   ```
   git config --global user.name "[name]" 
