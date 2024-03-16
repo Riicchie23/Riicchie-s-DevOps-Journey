@@ -11,3 +11,4 @@ As of today (3/16/24), I do not know what certificated I need to get for I am on
 
 ## Day 1 (March 16, 2024)
   - I'm doing the first part of the course, Python.
+  - Currently learning on how to manuever with Git
