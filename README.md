@@ -4,7 +4,7 @@ This will be my somewhat of a journal on the things that I've been doing </br>
 
 ### **Things I need to learn:** </br>
 I will be using this [site](https://roadmap.sh/devops) as a reference on what I need to learn first
-[ ] Learn a Programming Language
+- [ ] Learn a Programming Language
 <details>
   - [ ] Python
 </details>
