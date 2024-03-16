@@ -1,5 +1,4 @@
 <div>
-
 # Riicchie's DevOps Journey
 This will be my somewhat of a journal on the things that I've been doing </br>
 (or atleast I'll try to be consistent on logging my works //note to self!)
