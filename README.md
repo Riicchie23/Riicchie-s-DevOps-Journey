@@ -61,5 +61,7 @@ As of today (3/16/24), I do not know what certificated I need to get for I am on
   ```
   </details>
 
+## Day 2 (March 17, 2024)
+
   </div>
     
