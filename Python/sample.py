@@ -15,9 +15,13 @@ class RPG():
     def start_game(self):
         """Question to start the game
         """        
-        print("Start game? (y) or (n)")
-        if input() != "y":
+        print("Start game? (y/n)")
+        if input().strip().lower() != "y":
             sys.exit()
+        pass
+
+    def intro_dialogue(self):
+        pass
 
 
 if __name__ == "__main__":
@@ -25,5 +29,8 @@ if __name__ == "__main__":
 
     try:
         rpg.start_game()
+        print("Enter Action: ")
+        print("(A)ttack, (S)kills, (I)nfo, (Q)uit")
+
     except Exception as e:
         print(e)

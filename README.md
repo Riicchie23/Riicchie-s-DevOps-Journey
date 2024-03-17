@@ -78,5 +78,7 @@ As of today (3/16/24), I do not know what certificated I need to get for I am on
 
   - You know, I really should start learning how to use flowcharts </br>
   its kind of hard to constantly remember how a flow supposed to work
+  - As of late, probably I'll focus first on the "RPG game" project as a way to limit test </br>
+  myself with Python
   </div>
     
