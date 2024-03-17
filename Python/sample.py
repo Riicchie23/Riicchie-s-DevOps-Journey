@@ -20,9 +20,6 @@ class RPG():
             sys.exit()
 
 
-
-
-
 if __name__ == "__main__":
     rpg = RPG()
 
