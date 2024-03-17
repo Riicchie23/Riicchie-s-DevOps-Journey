@@ -62,6 +62,18 @@ As of today (3/16/24), I do not know what certificated I need to get for I am on
   </details>
 
 ## Day 2 (March 17, 2024)
+  - Currently reading about Python basics
+  - Planning to make a simple Python game
+  <details>
+  <summary>Details of the game</summary>
 
+  ```
+  # Create a RPG-like game, where there's a boss and the player needs to defeat it
+  # Player can choose what class they want
+  # It will have a fixed set of skills
+  # Player can know how many hp the boss still has
+  # It will be a turn-based type of game
+  ```
+  </details>
   </div>
     
