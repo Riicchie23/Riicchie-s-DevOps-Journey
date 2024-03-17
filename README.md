@@ -80,5 +80,8 @@ As of today (3/16/24), I do not know what certificated I need to get for I am on
   its kind of hard to constantly remember how a flow supposed to work
   - As of late, probably I'll focus first on the "RPG game" project as a way to limit test </br>
   myself with Python
+  - I forgot to mention, I somewhat have the basic grasp of Git. </br>
+  I'm just worried that since I found *Source Control* here in VSCode, </br>
+  I might lose that knowledge but I'll try not too 
   </div>
     
