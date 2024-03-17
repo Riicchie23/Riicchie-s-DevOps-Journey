@@ -75,8 +75,8 @@ As of today (3/16/24), I do not know what certificated I need to get for I am on
   # It will be a turn-based type of game
   ```
   </details>
-  
-  - You know, I really should start learning how to use flowcharts
+
+  - You know, I really should start learning how to use flowcharts </br>
   its kind of hard to constantly remember how a flow supposed to work
   </div>
     
