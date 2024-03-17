@@ -4,3 +4,6 @@
 # Player can know how many hp the boss still has
 # It will be a turn-based type of game
 
+class RPG():
+    def __init__(self):
+        pass
