@@ -83,5 +83,11 @@ As of today (3/16/24), I do not know what certificated I need to get for I am on
   - I forgot to mention, I somewhat have the basic grasp of Git. </br>
   I'm just worried that since I found *Source Control* here in VSCode, </br>
   I might lose that knowledge but I'll try not too 
+
+## Day 3 (March 18, 2024)
+  - Since its the weekdays, probably I'll have a shorter time to do this (around an hour) </br>
+  but I think that's enough to do something productive
+  - I think I'll continue on that game or probably research some other stuff
+  - I searced some DevOps scripting that uses Python, I think that's too advance ^^;
   </div>
     
