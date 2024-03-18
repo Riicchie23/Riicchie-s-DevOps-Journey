@@ -89,5 +89,31 @@ As of today (3/16/24), I do not know what certificated I need to get for I am on
   but I think that's enough to do something productive
   - I think I'll continue on that game or probably research some other stuff
   - I searced some DevOps scripting that uses Python, I think that's too advance ^^;
+  - So, I decided to continue on the game first. 
+  - I learned how to use Python's [pynput](https://pythonhosted.org/pynput/keyboard.html#) (just a little bit) 
+  <details>
+  <summary>pynput</summary>
+
+  ```
+  from pynput.keyboard import Key, Listener
+
+  class KeyListener():
+      def onKeyPressListener(self, key, target_key):
+          if key == target_key:
+              print("Enter has been pressed")
+              return False
+      
+      def start_listener(self, target_key):
+          with Listener(on_release=lambda key: self.onKeyPressListener(key, target_key)) as listener:
+              listener.join()
+
+  if __name__ == "__main__":
+      kl = KeyListener()
+      target_key = Key.enter
+
+      kl.start_listener(target_key)
+  ```
+  </details>
+
   </div>
     
