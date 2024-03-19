@@ -115,5 +115,8 @@ As of today (3/16/24), I do not know what certificated I need to get for I am on
   ```
   </details>
 
+  ## Day 4 (March 19, 2024)
+  - Probably I'll continue the game first, I'll try to implement some advance coding and good practice 
+  - I have only 1 week before, I change language in this case, I'll learn golang
   </div>
     
