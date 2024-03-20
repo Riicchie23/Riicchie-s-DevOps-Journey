@@ -5,17 +5,17 @@
 # It will be a turn-based type of game
 
 from pynput.keyboard import Key
-import sys
-sys.path.append("D:/DevOps/Riicchie-s-DevOps-Journey/")
+import sys, time
+# sys.path.append("D:/DevOps/Riicchie-s-DevOps-Journey/")
+sys.path.append("E:/Projects/Riicchie-s-DevOps-Journey/")
 
 from Python.key_reader import KeyListener
 class RPG():
     def __init__(self):
-        self.kl = KeyListener()
         boss_hp = None
         player_hp = None
         is_active = None #It means the player is active
-    
+
     def start_game(self):
         """Question to start the game
         """        
@@ -24,12 +24,13 @@ class RPG():
             sys.exit()
         pass
 
-    # def cont_func(self):
-    #     try:
-    #         print(">>")
-    #         self.kl.start_listener(Key.enter)
-    #     except Exception as e:
-    #         print(e)
+    def cont_func(self):
+        target_key = Key.enter
+        kl = KeyListener(target_key)
+        try:
+            kl.start_listener()
+        except Exception as e:
+            print(e)
 
     def intro_dialogue(self):
         print("This is the intro")
@@ -37,15 +38,13 @@ class RPG():
 
 if __name__ == "__main__":
     rpg = RPG()
-    kl = KeyListener()
-    target_key = Key.enter
+
     try:
         rpg.start_game()
         rpg.intro_dialogue()
-        print("Press Enter to Continue")
-        # kl.start_listener(target_key)
         
-
+        rpg.cont_func()
+        print("Press Enter to Continue")
         # print("Enter Action: ")
         # print("(A)ttack, (S)kills, (I)nfo, (Q)uit")
 
