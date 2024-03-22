@@ -1,9 +1,9 @@
 <div>
 # Riicchie's DevOps Journey
-This will be my somewhat of a journal on the things that I've been doing </br>
+This will be my somewhat of a journal on the things that I've been doing. </br>
 (or atleast I'll try to be consistent on logging my works //note to self!)
 
-### **Things I need to learn:** `</br>`
+### **Things I need to learn:**
 
 I will be using this [site](https://roadmap.sh/devops) as a reference on what I need to learn first
 
@@ -19,7 +19,7 @@ I will be using this [site](https://roadmap.sh/devops) as a reference on what I 
 
 </details>
 
-### **Certificates I need to get:** `</br>`
+### **Certificates I need to get:**
 
 As of today (3/16/24), I do not know what certificated I need to get for I am only starting
 
@@ -94,18 +94,15 @@ As of today (3/16/24), I do not know what certificated I need to get for I am on
 
 </details>
 
-- You know, I really should start learning how to use flowcharts `</br>`
+- You know, I really should start learning how to use flowcharts
   its kind of hard to constantly remember how a flow supposed to work
-- As of late, probably I'll focus first on the "RPG game" project as a way to limit test `</br>`
+- As of late, probably I'll focus first on the "RPG game" project as a way to limit test
   myself with Python
-- I forgot to mention, I somewhat have the basic grasp of Git. `</br>`
-  I'm just worried that since I found *Source Control* here in VSCode, `</br>`
-  I might lose that knowledge but I'll try not too
+- I forgot to mention, I somewhat have the basic grasp of Git. I'm just worried that since I found *Source Control* here in VSCode, I might lose that knowledge but I'll try not too.
 
 ## Day 3 (March 18, 2024)
 
-- Since its the weekdays, probably I'll have a shorter time to do this (around an hour) `</br>`
-  but I think that's enough to do something productive
+- Since its the weekdays, probably I'll have a shorter time to do this (around an hour) but I think that's enough to do something productive
 - I think I'll continue on that game or probably research some other stuff
 - I searced some DevOps scripting that uses Python, I think that's too advance ^^;
 - So, I decided to continue on the game first.
@@ -154,5 +151,7 @@ As of today (3/16/24), I do not know what certificated I need to get for I am on
 import sys
 sys.path.append('[filepath]')
 ```
+
+## Day 7 (March 22, 2024)
 
 </div>
