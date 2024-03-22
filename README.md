@@ -153,5 +153,5 @@ sys.path.append('[filepath]')
 ```
 
 ## Day 7 (March 22, 2024)
-
+  - Learned that alias in github is not for website aliasing. oops
 </div>
