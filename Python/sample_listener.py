@@ -1,4 +1,4 @@
-from pynput.keyboard import Key, Listener, Controller
+from pynput.keyboard import Key, Listener
 import sys
 
 class KeyListener():

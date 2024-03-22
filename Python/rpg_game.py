@@ -5,20 +5,22 @@
 # It will be a turn-based type of game
 
 from pynput.keyboard import Key
-import sys, time
+import sys
+
 # sys.path.append("D:/DevOps/Riicchie-s-DevOps-Journey/")
 sys.path.append("E:/Projects/Riicchie-s-DevOps-Journey/")
 
 from Python.key_reader import KeyListener
-class RPG():
+
+
+class RPG:
     def __init__(self):
         boss_hp = None
         player_hp = None
-        is_active = None #It means the player is active
+        is_active = None  # It means the player is active
 
     def start_game(self):
-        """Question to start the game
-        """        
+        """Question to start the game"""
         print("Start game? (y/n)")
         if input().strip().lower() != "y":
             sys.exit()
@@ -42,7 +44,7 @@ if __name__ == "__main__":
     try:
         rpg.start_game()
         rpg.intro_dialogue()
-        
+
         rpg.cont_func()
         print("Press Enter to Continue")
         # print("Enter Action: ")
