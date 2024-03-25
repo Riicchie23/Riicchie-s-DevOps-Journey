@@ -155,4 +155,12 @@ sys.path.append('[filepath]')
 
 ## Day 7 (March 22, 2024)
   - Learned that alias in github is not for website aliasing. oops
+
+## Day 8 (March 23, 2024)
+  - Break
+
+## Day 9 (March 24, 2024)
+  - Started with Ubuntu, manage to get a course on udemy
+
+## Day 10 (March 25, 2024)
 </div>
