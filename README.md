@@ -1,29 +1,16 @@
 <div>
 # Riicchie's DevOps Journey
 This will be my somewhat of a journal on the things that I've been doing. </br>
-(or atleast I'll try to be consistent on logging my works //note to self!)
+(or atleast I'll "try" to be consistent on logging my works //note to self!)
 
 ### **Things I need to learn:**
-## I have yet to update this, since its been two(?) days since I updated this
-
 I will be using this [site](https://roadmap.sh/devops) as a reference on what I need to learn first
+I ditch the whole "following step by step" since I realize that will only make things slower </br>
 
-<details>
-<summary> Lessons / Modules </summary>
-
-- [ ] **Learn a Programming Language**
-  - [ ] Python
-    - [X] Learn the Basics
-    - [ ] Datastructes and Algorithms
-    - [ ] Advance Topics
-  - [ ] Go
-
-</details>
 
 ### **Certificates I need to get:**
 
 As of today (3/16/24), I do not know what certificated I need to get for I am only starting
-
 </div>
 
 <div>
