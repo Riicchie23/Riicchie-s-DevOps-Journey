@@ -4,7 +4,7 @@ This will be my somewhat of a journal on the things that I've been doing. </br>
 (or atleast I'll "try" to be consistent on logging my works //note to self!)
 
 ### **Things I need to learn:**
-I will be using this [site](https://roadmap.sh/devops) as a reference on what I need to learn first
+I will be using this [site](https://roadmap.sh/devops) as a reference on what I need to learn first </br>
 I ditch the whole "following step by step" since I realize that will only make things slower </br>
 
 
